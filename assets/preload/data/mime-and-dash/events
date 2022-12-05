@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": null,
+		"player1": "bf",
+		"player2": "mime-1",
+		"player3": null,
+		"events": [
+			[
+				31500,
+				[
+					[
+						"EsoTilin",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "mime-2",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "mime-and-dash"
+	}
+}
